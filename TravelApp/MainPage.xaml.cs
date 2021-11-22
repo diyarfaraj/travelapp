@@ -19,13 +19,14 @@ namespace TravelApp
             bool email = !string.IsNullOrEmpty(emailEntry.Text);
             bool password = !string.IsNullOrEmpty(passwordEntry.Text );
 
-            if (email || password)
+            if (!email || !password)
             {
-                
+                //do not navigate
             }
             else
             {
-                
+                Navigation.PushAsync(new HomePage());
+
             }
 
         }

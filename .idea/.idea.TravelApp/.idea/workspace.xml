@@ -9,37 +9,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925cfb26-b923-4137-82c3-48bda4a85cf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Assets/AboutAssets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/MainActivity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Properties/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Resources/AboutResources.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Resources/Resource.designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Resources/layout/Tabbar.axml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Resources/layout/Toolbar.axml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Resources/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/Resources/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.Android/TravelApp.Android.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/AppDelegate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/Entitlements.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/Main.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/Resources/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.iOS/TravelApp.iOS.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/HistoryPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/HistoryPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/MapPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/MapPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/ProfilePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/ProfilePage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/App.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/MainPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +30,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TravelApp/obj/Debug/netstandard2.0/HomePage.xaml.g.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="TravelApp.Android/invalid/Android Facet - TravelApp.Android" />
     </ignored-facets>
   </component>
   <component name="ProjectId" id="21F1Bp86r4Jpd41d57NEVXIruXL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3498854" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\diyar.SP\.android\avd\Pixel_4_XL_API_29.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-11-22T14:38:00.871418800Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -101,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637521890867</updated>
       <workItem from="1637521911318" duration="2109000" />
+      <workItem from="1637591853996" duration="2186000" />
     </task>
     <servers />
   </component>
@@ -108,7 +98,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -120,8 +110,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
