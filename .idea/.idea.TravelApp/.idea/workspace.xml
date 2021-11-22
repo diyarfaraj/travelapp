@@ -9,18 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925cfb26-b923-4137-82c3-48bda4a85cf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TravelApp/HistoryPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/HistoryPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/MapPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/MapPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/ProfilePage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/ProfilePage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/NewTravelPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelApp/NewTravelPage.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/MainPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/HomePage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/HomePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/MainPage.xaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TravelApp/obj/Debug/netstandard2.0/HomePage.xaml.g.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
