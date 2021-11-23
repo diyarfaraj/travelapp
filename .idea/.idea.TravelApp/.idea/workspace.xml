@@ -9,12 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925cfb26-b923-4137-82c3-48bda4a85cf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TravelApp/NewTravelPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TravelApp/NewTravelPage.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/HomePage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/HomePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/HomePage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/App.xaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
