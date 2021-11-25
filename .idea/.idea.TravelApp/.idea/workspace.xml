@@ -9,8 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925cfb26-b923-4137-82c3-48bda4a85cf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TravelApp/Model/Post.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TravelApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TravelApp/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp.Android/MainActivity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp.Android/MainActivity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp.Android/TravelApp.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp.Android/TravelApp.Android.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp.iOS/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp.iOS/AppDelegate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp.iOS/TravelApp.iOS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp.iOS/TravelApp.iOS.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/App.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelApp/TravelApp.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +55,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Xamarin.Android.TravelApp.Android">
@@ -77,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1637521890867</updated>
       <workItem from="1637521911318" duration="2109000" />
-      <workItem from="1637591853996" duration="2186000" />
+      <workItem from="1637591853996" duration="2806000" />
+      <workItem from="1637853183057" duration="2324000" />
     </task>
     <servers />
   </component>
