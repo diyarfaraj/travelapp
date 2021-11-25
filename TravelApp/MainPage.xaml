@@ -3,8 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TravelApp"
              x:Class="TravelApp.MainPage">
-    
-
     <StackLayout Margin="15"  VerticalOptions="Center">
         <Entry x:Name="emailEntry" Placeholder="Email"  Keyboard="Email" />
        <Entry x:Name="passwordEntry" IsPassword="True" Placeholder="Password" />
@@ -13,7 +11,5 @@
                 Text="Login"
                 Style="{StaticResource normalButtom}"
                 ></Button>
-
     </StackLayout>
-
 </ContentPage>
