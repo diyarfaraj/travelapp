@@ -18,6 +18,9 @@ namespace TravelApp
 
         public App( string databaseLocation)
         {
+            InitializeComponent();
+
+            MainPage = new NavigationPage(new MainPage());
             DatabaseLocation = databaseLocation;
         }
 
