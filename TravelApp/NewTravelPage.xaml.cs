@@ -34,13 +34,6 @@ namespace TravelApp
                 else
                     DisplayAlert("FAil", "experince failed to add", "OK");
             }
-            
-            
-
-            
-                
-            
-
 
         }
     }

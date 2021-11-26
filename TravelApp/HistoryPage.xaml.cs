@@ -32,5 +32,11 @@ namespace TravelApp
          
 
         }
+
+        private void PostListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            var selectedPost = postListView.SelectedItem as Post;
+            Navigation.PushAsync(new PostDetailPage(selectedPost));
+        }
     }
 }
